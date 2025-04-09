@@ -14,10 +14,10 @@ Projeto simples de simulação de um sistema bancário, feito em Java como prát
 
 📦sistema-banco-java ┣ 📂src ┃ ┣ 📄Main.java ┃ ┣ 📄Cliente.java ┃ ┗ 📄TipoConta.java ┣ 📄.gitignore ┗ 📄README.md
 
-🛠️ Tecnologias usadas
+##🛠️ Tecnologias usadas
 Java (JDK 17 ou superior recomendado)
 Terminal/Console
 IntelliJ IDEA (ou qualquer editor de código)
 
-🤝 Contribuição
+##🤝 Contribuição
 Pull requests são bem-vindos! Se quiser contribuir com melhorias, fique à vontade.
